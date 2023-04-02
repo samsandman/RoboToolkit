@@ -17,10 +17,11 @@ Midjourney
 
 
 Chat Gpt4
-      Plugins
+      Chriome Addons
             Fanc GPT
             Supercharge GPT
-            
+      Plugins
+            Still on whitelist xD
       OP Assistents
             Writer
             Coach
@@ -28,3 +29,11 @@ Chat Gpt4
             Devils Advocate
             GOD
       Workflows
+
+
+
+
+
+
+
+Meta: [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
